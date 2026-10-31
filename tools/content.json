@@ -1,0 +1,633 @@
+{
+  "software": [
+    {
+      "icon": "web",
+      "it": [
+        "Gestionali e piattaforme web",
+        "Applicazioni in cloud per clienti, pratiche, scadenze, ordini e produzione. Si usano dal browser, da qualsiasi dispositivo."
+      ],
+      "en": [
+        "Management software and web platforms",
+        "Cloud applications for customers, cases, deadlines, orders and production. They run in the browser, on any device."
+      ]
+    },
+    {
+      "icon": "mobile",
+      "it": [
+        "App mobile",
+        "App per Android e iOS collegate ai tuoi dati: per i clienti, per chi lavora sul campo, per gli ordini."
+      ],
+      "en": [
+        "Mobile apps",
+        "Android and iOS apps connected to your data: for your customers, for people in the field, for orders."
+      ]
+    },
+    {
+      "icon": "integrations",
+      "it": [
+        "SaaS e integrazioni",
+        "Piattaforme per più clienti, API e connettori verso e-commerce, CRM e i sistemi che usi già."
+      ],
+      "en": [
+        "SaaS and integrations",
+        "Multi-tenant platforms, APIs and connectors to e-commerce, CRMs and the systems you already use."
+      ]
+    },
+    {
+      "icon": "analysis",
+      "it": [
+        "Analisi e automazione",
+        "Prima del codice studio come lavori: dove si perde tempo, dove nascono gli errori, cosa si può automatizzare."
+      ],
+      "en": [
+        "Analysis and automation",
+        "Before the code I study how you work: where time is lost, where errors come from, what can be automated."
+      ]
+    }
+  ],
+  "installations": [
+    {
+      "it": "lo'bat Interactive System, per Ramin Haerizadeh, Rokni Haerizadeh e Hesam Rahmanian",
+      "en": "lo'bat Interactive System, for Ramin Haerizadeh, Rokni Haerizadeh and Hesam Rahmanian",
+      "where": "OGR Torino · Toronto Biennial of Art 2019"
+    },
+    {
+      "it": "Area Storica",
+      "en": "Area Storica",
+      "where": "OGR Torino"
+    },
+    {
+      "it": "Artissima Telephone",
+      "en": "Artissima Telephone",
+      "where": "OGR Torino"
+    },
+    {
+      "it": "Museo dell'aeroporto partigiano",
+      "en": "Partisan Airfield Museum",
+      "where": "Vesime (AT)"
+    },
+    {
+      "it": "Museo Pavesiano",
+      "en": "Cesare Pavese Museum",
+      "where": "Santo Stefano Belbo (CN)"
+    },
+    {
+      "it": "Associazione Carmina Gaelica",
+      "en": "Carmina Gaelica association",
+      "where": ""
+    },
+    {
+      "it": "Associazione Nellabolla",
+      "en": "Nellabolla association",
+      "where": ""
+    },
+    {
+      "it": "Officine Sintetiche 2008 e 2009",
+      "en": "Officine Sintetiche 2008 and 2009",
+      "where": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "PuntoColf",
+      "role": "fullstack",
+      "client": "Labor & Co. S.r.l.",
+      "tech": ".NET · Angular · FlutterFlow",
+      "href": "https://www.puntocolf.it/",
+      "it": "La gestione del lavoro domestico per famiglie e lavoratori: contratti, buste paga, contributi INPS e Cassa Colf, ferie e presenze. Backend, pannello per gli operatori e due app mobile.",
+      "en": "Domestic work management for families and workers: contracts, payslips, INPS and Cassa Colf contributions, leave and attendance. Backend, operator console and two mobile apps.",
+      "major": true
+    },
+    {
+      "name": "Shelf Planner",
+      "role": "fullstack",
+      "client": "Shelf Planner AB",
+      "partner": "IKIGAI Soluzioni Informatiche",
+      "tech": ".NET · Angular · WooCommerce",
+      "href": "https://www.shelfplanner.com/",
+      "it": "Previsione della domanda e riordino automatico delle scorte per i negozi online, con i connettori per WooCommerce e WordPress.",
+      "en": "Demand forecasting and automatic stock replenishment for online shops, with connectors for WooCommerce and WordPress.",
+      "major": true
+    },
+    {
+      "name": "Answers. by ebp",
+      "role": "frontend_backend",
+      "client": "ebp Global",
+      "partner": "IKIGAI Soluzioni Informatiche",
+      "tech": ".NET · Angular · SaaS",
+      "href": "https://ebp-global.com/answers-by-ebp-insights-for-assortment-trend-supply/",
+      "it": "Piattaforma di analisi per il retail su più aziende: assortimento, previsione dei trend e approvvigionamento in un unico posto.",
+      "en": "A multi-tenant analytics platform for retail: assortment, trend forecasting and supply planning in one place.",
+      "major": true
+    },
+    {
+      "name": "Perfecto",
+      "role": "fullstack",
+      "client": "IKIGAI Soluzioni Informatiche",
+      "tech": "Web · SaaS",
+      "href": "https://perfecto-events.com/",
+      "it": "Matchmaking per fiere ed eventi B2B: profilazione dei partecipanti, agende di incontri generate in automatico, badge e report.",
+      "en": "Matchmaking for B2B trade fairs and events: participant profiling, automatically generated meeting agendas, badges and reports.",
+      "major": true
+    },
+    {
+      "name": "Hagal+Clinic",
+      "wide": true,
+      "role": "fullstack",
+      "own": true,
+      "tech": ".NET · Angular · Cloud",
+      "it": "Il gestionale per poliambulatori, anche multisede, in produzione da oltre otto anni: pianificazione, prenotazioni e flusso degli appuntamenti, refertazione, listini dei professionisti, reportistica, un modulo per la medicina dello sport e integrazioni con apparecchiature come gli ecografi. Conforme al GDPR.",
+      "en": "Management software for outpatient clinics, multi-site included, in production for over eight years: scheduling, booking and appointment flow, medical reports, practitioner price lists, reporting, a sports medicine module and integrations with devices such as ultrasound scanners. GDPR compliant.",
+      "major": true,
+      "page": "hagal"
+    },
+    {
+      "name": "Oilman",
+      "role": "fullstack",
+      "client": "Iveco / CNH Industrial · FPT Industrial",
+      "tech": "Industrial software",
+      "it": "Automazione dell'erogazione dell'olio nelle postazioni di riparazione degli autoveicoli, per eliminare l'errore umano.",
+      "en": "Automated oil dispensing at vehicle repair stations, to take human error out of the process.",
+      "own": true
+    },
+    {
+      "name": "Simple CRM",
+      "role": "fullstack",
+      "client": "Call center",
+      "tech": "Desktop",
+      "it": "Il CRM desktop di un call center: chiamate, ricontatti e ordini in un'unica applicazione, al posto dei fogli Excel.",
+      "en": "A desktop CRM for a call centre: calls, call-backs and orders in a single application, replacing the Excel sheets.",
+      "own": true
+    },
+    {
+      "name": "Dolce Torino La Diretta",
+      "role": "mobile",
+      "client": "Dolce Torino",
+      "partner": "IKIGAI Soluzioni Informatiche",
+      "tech": "Mobile",
+      "it": "L'app per gli ordini dei clienti di un grossista dolciario: catalogo, disponibilità e ordini senza aspettare la visita dell'agente.",
+      "en": "The ordering app for the customers of a pastry wholesaler: catalogue, availability and orders without waiting for the sales agent."
+    },
+    {
+      "name": "BNsuite",
+      "role": "mobile",
+      "tech": "Mobile · Windows · Web",
+      "href": "https://bnsuite.com/",
+      "it": "Pianificazione e controllo di gestione per imprenditori e professionisti, con un solo accesso su telefono, tablet e computer.",
+      "en": "Business planning and management control for entrepreneurs and professionals, with one login on phone, tablet and computer."
+    }
+  ],
+  "partners": [
+    {
+      "name": "IKIGAI Soluzioni Informatiche",
+      "href": "https://www.ikigai-soluzioni.it/",
+      "it": "La società di Simone Festuccia, sviluppatore di prim'ordine e soprattutto project manager che mi tiene sempre sul pezzo. Software su misura, integrazione di sistemi e servizi gestiti. Insieme sviluppiamo Shelf Planner e abbiamo realizzato Dolce Torino e Answers; per IKIGAI contribuisco allo sviluppo di Perfecto.",
+      "en": "The company of Simone Festuccia, a first-rate developer and above all a project manager who keeps me on my toes. Custom software, system integration and managed services. Together we develop Shelf Planner, and we built Dolce Torino and Answers; for IKIGAI I help develop Perfecto."
+    },
+    {
+      "name": "TAKEMAKE Studios",
+      "href": "https://takemakestudios.com/",
+      "it": "Lo studio di Demis Boato, game designer e professionista del web, della comunicazione e del marketing. Da ragazzi, con lo stesso nome, avevamo fondato un gruppo per inventare e sviluppare videogiochi. Con Hikimi ha realizzato il sito di MindContact del 2022.",
+      "en": "The studio of Demis Boato, game designer and a skilled professional in web, communication and marketing. When we were young, we started an informal group under the same name to invent and build video games. With Hikimi, it built MindContact's 2022 website."
+    },
+    {
+      "name": "Hikimi",
+      "href": "https://hikimi.it/",
+      "it": "Lo studio di Roberto Blefari, creativo a tutto tondo, formato allo IED di Torino, dove oggi insegna. Ha dato vita al logo e all'immagine coordinata di MindContact.",
+      "en": "The studio of Roberto Blefari, a creative through and through, trained at IED Turin, where he now teaches. It brought MindContact's logo and visual identity to life."
+    },
+    {
+      "name": "Lorenzo Guglielmo",
+      "href": "https://www.linkedin.com/in/lorenzoguglielmo/",
+      "profile": true,
+      "it": "Da oltre 25 anni progetta, realizza e gestisce sistemi informatici: integrazioni, project management, analisi e rapporto con i clienti. Con lui e Simone ho iniziato a lavorare per clienti internazionali.",
+      "en": "For over 25 years he has designed, built and run IT systems: integrations, project management, analysis and client relations. With him and Simone I started working for international clients."
+    },
+    {
+      "name": "Fabrizio Rapelli",
+      "href": "https://www.rapelli.net/",
+      "it": "Uno sviluppatore straordinario, il mio Mr. Wolf: quando un problema sembra senza uscita, lui lo risolve. Lavora con .NET e C#, server e applicazioni client in JavaScript e TypeScript, da Douarnenez, in Bretagna.",
+      "en": "An extraordinary developer, my Mr. Wolf: when a problem looks like a dead end, he solves it. He works with .NET and C#, servers and client applications in JavaScript and TypeScript, from Douarnenez, in Brittany."
+    }
+  ],
+  "hagal": {
+    "it": {
+      "title": "Hagal+Clinic — il gestionale per poliambulatori · MindContact",
+      "description": "Hagal+Clinic è il gestionale in cloud per poliambulatori e centri medici, anche multisede: agenda di professionisti e stanze, accettazione, refertazione, medicina dello sport, report. Un prodotto MindContact.",
+      "hero": {
+        "kicker": "Prodotto MindContact",
+        "h1": "Hagal+Clinic",
+        "lede": "Il gestionale per poliambulatori e centri medici, anche multisede. In produzione da oltre otto anni.",
+        "cta": "Parliamone",
+        "cta2": "Cosa fa",
+        "cta2_href": "#funzioni"
+      },
+      "problem": {
+        "kicker": "Il problema",
+        "h2": "Professionisti, stanze e pazienti da far combaciare",
+        "paras": [
+          "Un poliambulatorio ha più stanze e molti professionisti: alcuni visitano ogni giorno, altri solo in certi giorni, altri ancora quando serve. La reception passa gran parte del tempo a incastrare le loro disponibilità, prima ancora di prenotare i pazienti.",
+          "Hagal+Clinic parte da qui. Per ogni giorno abbini, ora per ora, un professionista a una stanza, anche su più sedi, e prenoti le prestazioni sulle disponibilità vere. Meno telefonate, meno errori, un'agenda che tutti leggono allo stesso modo."
+        ]
+      },
+      "features": {
+        "kicker": "Funzioni",
+        "h2": "Tutto il percorso del paziente, in un posto solo",
+        "lede": "Dalla prenotazione al referto, fino ai numeri del centro.",
+        "items": [
+          [
+            "Agenda e stanze",
+            "Il planner dei professionisti per sede e per stanza, le serie di appuntamenti, la lista d'attesa, le presenze del mese e la stampa delle visite del giorno."
+          ],
+          [
+            "Accettazione",
+            "Il check-in del paziente con il consenso privacy: se non l'ha mai firmato, Hagal+Clinic lo chiede prima di andare avanti."
+          ],
+          [
+            "Refertazione",
+            "Un referto diverso per ogni prestazione, un referto nuovo partendo da uno precedente, la firma del professionista e i PDF, anche in blocco."
+          ],
+          [
+            "Medicina dello sport",
+            "Visite agonistiche e non agonistiche, certificati di idoneità, spirometria ed esame della vista, con un ruolo dedicato al medico dello sport."
+          ],
+          [
+            "Listini e pacchetti",
+            "Prestazioni e listini per professionista, pacchetti e abbonamenti con il loro consumo."
+          ],
+          [
+            "Segnalatori",
+            "Chi porta pazienti al centro e le provvigioni da fatturare o da riconoscere, con un cruscotto dedicato."
+          ],
+          [
+            "Anagrafiche",
+            "Import ed export dei pazienti, unione dei doppioni, dati ricavati dal codice fiscale, ricerche incrociate per le iniziative del centro."
+          ],
+          [
+            "Report e statistiche",
+            "Cruscotti per l'amministrazione e per i professionisti, report sull'attività del centro."
+          ],
+          [
+            "Ruoli e permessi",
+            "Amministratori di sede e di gruppo, operatori, medici, infermieri: ognuno vede quello che gli serve."
+          ],
+          [
+            "Integrazioni",
+            "Il collegamento con apparecchiature diagnostiche come gli ecografi e con il gestionale contabile."
+          ],
+          [
+            "Avvisi",
+            "Messaggi ai pazienti via SMS ed email."
+          ],
+          [
+            "GDPR",
+            "Lo storico dei consensi, i consensi firmati dal paziente con un link che vale una volta sola, il registro degli eventi."
+          ]
+        ]
+      },
+      "facts": {
+        "kicker": "In breve",
+        "h2": "Un software che lavora da anni",
+        "items": [
+          [
+            "Dal 2016",
+            "in produzione, ogni giorno"
+          ],
+          [
+            "Multisede",
+            "sedi, stanze e professionisti in un'unica agenda"
+          ],
+          [
+            "In cloud",
+            "dal browser, senza installare niente"
+          ],
+          [
+            "Su misura",
+            "moduli e integrazioni nati dalle richieste dei centri"
+          ]
+        ]
+      },
+      "custom": {
+        "kicker": "Su misura",
+        "h2": "Cresce con il tuo centro",
+        "paras": [
+          "Hagal+Clinic è un prodotto mio: lo progetto, lo sviluppo e lo seguo direttamente. Le funzioni nuove nascono dalle richieste dei centri che lo usano, e resta aperto agli sviluppi su misura: un modulo, un'integrazione con un'apparecchiatura, un report che oggi manca.",
+          "Se gestisci un poliambulatorio, raccontami come lavorate: vediamo insieme se Hagal+Clinic fa per voi."
+        ]
+      }
+    },
+    "en": {
+      "title": "Hagal+Clinic — management software for outpatient clinics · MindContact",
+      "description": "Hagal+Clinic is cloud management software for outpatient clinics and medical centres, including multi-site ones: schedules for professionals and rooms, check-in, medical reports, sports medicine, reports. A MindContact product.",
+      "hero": {
+        "kicker": "MindContact product",
+        "h1": "Hagal+Clinic",
+        "lede": "Management software for outpatient clinics and medical centres, including multi-site ones. In production for over eight years.",
+        "cta": "Let's talk",
+        "cta2": "What it does",
+        "cta2_href": "#funzioni"
+      },
+      "problem": {
+        "kicker": "The problem",
+        "h2": "Professionals, rooms and patients that have to fit together",
+        "paras": [
+          "An outpatient clinic has several rooms and many professionals: some see patients every day, some only on certain days, others when needed. The front desk spends most of its time fitting their availability together, before it even books a patient.",
+          "Hagal+Clinic starts from there. For each day you pair a professional with a room, hour by hour, across sites too, and book services on real availability. Fewer phone calls, fewer mistakes, one schedule everybody reads the same way."
+        ]
+      },
+      "features": {
+        "kicker": "Features",
+        "h2": "The whole patient journey, in one place",
+        "lede": "From the booking to the medical report, up to the clinic's numbers.",
+        "items": [
+          [
+            "Schedule and rooms",
+            "The professionals' planner by site and by room, appointment series, waiting list, monthly attendance and the printout of the day's visits."
+          ],
+          [
+            "Check-in",
+            "Patient check-in with the privacy consent: if it was never signed, Hagal+Clinic asks for it before going on."
+          ],
+          [
+            "Medical reports",
+            "A different report for each service, a new report starting from a previous one, the professional's signature and PDFs, in bulk too."
+          ],
+          [
+            "Sports medicine",
+            "Competitive and non-competitive examinations, fitness certificates, spirometry and eye tests, with a dedicated role for the sports doctor."
+          ],
+          [
+            "Price lists and packages",
+            "Services and price lists per professional, packages and subscriptions with their usage."
+          ],
+          [
+            "Referrers",
+            "Who brings patients to the clinic and the commissions to invoice or credit, with a dashboard of their own."
+          ],
+          [
+            "Patient records",
+            "Patient import and export, duplicate merging, data derived from the Italian tax code, cross searches for the clinic's initiatives."
+          ],
+          [
+            "Reports and statistics",
+            "Dashboards for administration and professionals, reports on the clinic's activity."
+          ],
+          [
+            "Roles and permissions",
+            "Site and group administrators, operators, doctors, nurses: everyone sees what they need."
+          ],
+          [
+            "Integrations",
+            "Links to diagnostic equipment such as ultrasound machines and to the accounting software."
+          ],
+          [
+            "Notices",
+            "Messages to patients by SMS and email."
+          ],
+          [
+            "GDPR",
+            "Consent history, consents signed by the patient through a single-use link, the event log."
+          ]
+        ]
+      },
+      "facts": {
+        "kicker": "At a glance",
+        "h2": "Software that has been working for years",
+        "items": [
+          [
+            "Since 2016",
+            "in production, every day"
+          ],
+          [
+            "Multi-site",
+            "sites, rooms and professionals in one schedule"
+          ],
+          [
+            "Cloud",
+            "in the browser, nothing to install"
+          ],
+          [
+            "Tailored",
+            "modules and integrations born from the clinics' requests"
+          ]
+        ]
+      },
+      "custom": {
+        "kicker": "Tailored",
+        "h2": "It grows with your clinic",
+        "paras": [
+          "Hagal+Clinic is my own product: I design it, build it and look after it myself. New features come from the requests of the clinics that use it, and it stays open to custom development: a module, an integration with a device, a report that is missing today.",
+          "If you run an outpatient clinic, tell me how you work: we'll see together whether Hagal+Clinic is right for you."
+        ]
+      }
+    }
+  },
+  "interactive": {
+    "reads": [
+      [
+        "Antonio Pizzo",
+        "Teatro e mondo digitale. Attori, scena e pubblico",
+        "Marsilio, 2003",
+        "https://iris.unito.it/handle/2318/16902"
+      ],
+      [
+        "Antonio Pizzo",
+        "Neodrammatico digitale. Scena multimediale e racconto interattivo",
+        "Accademia University Press, 2013",
+        "https://books.openedition.org/aaccademia/361"
+      ],
+      [
+        "Antonio Pizzo, Vincenzo Lombardo, Rossana Damiano",
+        "Interactive Storytelling",
+        "Dino Audino, 2021; Routledge, 2023",
+        "https://doi.org/10.4324/9781003335627"
+      ],
+      [
+        "Edoardo Fadini",
+        "Scritti sul teatro. Interventi, recensioni, saggi",
+        "Cue Press, 2023",
+        ""
+      ],
+      [
+        "Myron Krueger",
+        "Artificial Reality",
+        "Addison-Wesley, 1983",
+        ""
+      ],
+      [
+        "Brenda Laurel",
+        "Computers as Theatre",
+        "Addison-Wesley, 1991",
+        ""
+      ],
+      [
+        "Steve Mann",
+        "Humanistic Computing: WearComp as a New Framework and Application for Intelligent Signal Processing",
+        "Proceedings of the IEEE, 1998",
+        "http://wearcam.org/procieee.htm"
+      ],
+      [
+        "Steve Mann",
+        "Natural Interfaces for Musical Expression: Physiphones and a Physics-Based Organology",
+        "NIME, 2007",
+        "https://nime.org/proceedings/2007/nime2007_118.pdf"
+      ],
+      [
+        "Studio Azzurro",
+        "Ambienti sensibili. Esperienze tra interattività e narrazione",
+        "Electa, 1999",
+        "https://www.studioazzurro.com/pubblicazioni/ambienti-sensibili-catalogo-1999/"
+      ],
+      [
+        "Antonio Camurri et al.",
+        "EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems",
+        "Computer Music Journal, 2000",
+        ""
+      ],
+      [
+        "Steve Dixon",
+        "Digital Performance",
+        "MIT Press, 2007",
+        "https://mitpress.mit.edu/9780262527521/digital-performance/"
+      ],
+      [
+        "Lev Manovich",
+        "The Poetics of Augmented Space",
+        "Visual Communication, 2006",
+        "https://doi.org/10.1177/1470357206065527"
+      ]
+    ],
+    "it": {
+      "title": "Sistemi interattivi per musei, mostre, teatro ed eventi · MindContact",
+      "description": "MindContact progetta e costruisce interfacce fisiche per musei, mostre, teatro ed eventi: oggetti normali, come una scrivania, un meccanismo o un tabellone, resi interattivi con sensori, elettronica, firmware e software.",
+      "hero": {
+        "kicker": "Sistemi interattivi",
+        "h1": "Oggetti che rispondono",
+        "lede": "Rendo interattivi gli oggetti di tutti i giorni: una scrivania, un insieme di meccanismi, un tabellone. Il pubblico li tocca, li apre, li muove, e loro rispondono. Progetto e costruisco tutta la catena, dai sensori agli attuatori, passando per elettronica, firmware e software.",
+        "cta": "Raccontami la tua idea",
+        "cta2": "Dove li ho portati",
+        "cta2_href": "#lavori"
+      },
+      "what": {
+        "kicker": "Interfacce fisiche",
+        "h2": "Oggetti normali, percezione aumentata",
+        "paras": [
+          "La mia specialità sono le interfacce fisiche: oggetti normali resi interattivi. Sensori ed elettronica spariscono dentro l'oggetto, che conserva il suo aspetto ma ora si accorge di chi lo usa e risponde con un suono, una luce, un'immagine, un movimento.",
+          "Lo scopo è aumentare la percezione. Uno schermo si guarda; un oggetto si tocca, si apre, si sposta, e coinvolge tutto il corpo. Chi visita non è più spettatore e basta: entra nell'opera e la cambia.",
+          "Un cassetto che racconta una storia quando lo apri, una pedina che accende il tabellone quando la sposti, un meccanismo che torna a muoversi sotto le mani di chi visita: così un'esperienza diventa difficile da dimenticare e facile da condividere."
+        ]
+      },
+      "roots": {
+        "kicker": "Le radici",
+        "h2": "Prima il teatro, poi la tecnologia",
+        "paras": [
+          "Ho incontrato i sistemi interattivi al MultiDams dell'Università di Torino, tra musica e teatro, e nei laboratori delle Officine Sintetiche nel 2008 e nel 2009. Lì ho studiato con Antonio Pizzo, che ha raccontato come il digitale cambi insieme attore, scena e pubblico, e che legge il dramma interattivo come un sistema di regole: chi scrive non fissa una sequenza, ma le condizioni in cui la storia accade. Con Vincenzo Lombardo, che insieme a Pizzo ha insegnato al computer a rappresentare un dramma. E con Edoardo Fadini, che all'università raccontava il teatro multimediale, il videoteatro e il nuovo teatro, e che con il Cabaret Voltaire aveva portato a Torino l'avanguardia, dal Living Theatre a John Cage.",
+          "Da questa scuola viene il mio modo di lavorare: un'installazione interattiva è una drammaturgia. Prima del circuito c'è una domanda: cosa deve succedere quando qualcuno entra, tocca, parla?",
+          "Il campo ha i suoi maestri. Myron Krueger, con VIDEOPLACE negli anni Settanta, costruiva ambienti che percepiscono il corpo e rispondono in tempo reale. Brenda Laurel ha letto l'interazione con il computer come teatro, con chi la usa dentro l'azione. Steve Mann ha messo la persona dentro il ciclo della macchina, la sua «intelligenza umanistica», e ha costruito strumenti che si suonano con l'acqua, come l'idraulofono. In Italia Studio Azzurro ha creato gli «ambienti sensibili», dove la relazione tra le persone conta quanto quella con il dispositivo, e a Genova Antonio Camurri ha insegnato alle macchine a leggere l'espressività del gesto. Lev Manovich, infine, ha descritto lo «spazio aumentato»: lo spazio fisico arricchito di informazione, dove a cambiare non è lo schermo ma il luogo stesso."
+        ]
+      },
+      "how": {
+        "kicker": "Come lavoro",
+        "h2": "Un solo referente, dall'idea all'allestimento",
+        "lede": "Progetto e costruisco io tutta la parte tecnica, senza passaggi di mano tra chi progetta e chi costruisce. Per gli allestimenti collaboro con professionisti del settore di comprovata esperienza.",
+        "items": [
+          [
+            "L'idea",
+            "Partiamo da cosa deve provare il pubblico: la storia, il percorso, il momento in cui lo spazio risponde."
+          ],
+          [
+            "I sensori",
+            "Tocco, movimento, presenza, voce, luce: scelgo come l'oggetto si accorge di chi c'è, e nascondo i sensori dentro di lui."
+          ],
+          [
+            "Elettronica e firmware",
+            "Microcontrollori e schede su misura, programmate per reagire subito e per non fermarsi."
+          ],
+          [
+            "Software",
+            "La logica dell'esperienza e il controllo di suoni, luci, immagini e movimenti."
+          ],
+          [
+            "Allestimento",
+            "Con professionisti dell'allestimento: prove sul posto, regolazioni con il pubblico vero e assistenza finché l'installazione resta aperta."
+          ]
+        ]
+      },
+      "where": {
+        "kicker": "Lavori",
+        "h2": "Dove li ho portati"
+      },
+      "reads": {
+        "kicker": "Letture",
+        "h2": "Per chi vuole approfondire",
+        "lede": "I libri e gli studi da cui parte il mio lavoro."
+      }
+    },
+    "en": {
+      "title": "Interactive systems for museums, exhibitions, theatre and events · MindContact",
+      "description": "MindContact designs and builds physical interfaces for museums, exhibitions, theatre and events: ordinary objects, such as a desk, a mechanism or a board, made interactive with sensors, electronics, firmware and software.",
+      "hero": {
+        "kicker": "Interactive systems",
+        "h1": "Objects that respond",
+        "lede": "I make everyday objects interactive: a desk, a set of mechanisms, a board. Visitors touch them, open them, move them, and they respond. I design and build the whole chain, from sensors to actuators, through electronics, firmware and software.",
+        "cta": "Tell me your idea",
+        "cta2": "Where they have been",
+        "cta2_href": "#lavori"
+      },
+      "what": {
+        "kicker": "Physical interfaces",
+        "h2": "Ordinary objects, heightened perception",
+        "paras": [
+          "My speciality is physical interfaces: ordinary objects made interactive. Sensors and electronics disappear inside the object, which keeps its look but now notices who is using it and responds with a sound, a light, an image, a movement.",
+          "The aim is to heighten perception. A screen is something you look at; an object is something you touch, open, move, with your whole body. Visitors are no longer just spectators: they step into the work and change it.",
+          "A drawer that tells a story when you open it, a counter that lights up the board when you move it, a mechanism that starts moving again under the visitor's hands: that is how an experience becomes hard to forget and easy to share."
+        ]
+      },
+      "roots": {
+        "kicker": "Roots",
+        "h2": "Theatre first, then technology",
+        "paras": [
+          "I came across interactive systems at the MultiDams of the University of Turin, between music and theatre, and in the Officine Sintetiche workshops in 2008 and 2009. There I studied with Antonio Pizzo, who described how digital media change actor, stage and audience together, and who reads interactive drama as a system of rules: the author does not fix a sequence but the conditions in which the story happens. With Vincenzo Lombardo, who with Pizzo taught the computer to represent a drama. And with Edoardo Fadini, who taught multimedia theatre, video theatre and new theatre, and whose Cabaret Voltaire had brought the avant-garde to Turin, from the Living Theatre to John Cage.",
+          "That school shapes the way I work: an interactive installation is a piece of dramaturgy. Before the circuit there is a question: what should happen when someone walks in, touches, speaks?",
+          "The field has its masters. Myron Krueger, with VIDEOPLACE in the 1970s, built environments that perceive the body and respond in real time. Brenda Laurel read human–computer interaction as theatre, with the user inside the action. Steve Mann put the person inside the machine's loop, his “humanistic intelligence”, and built instruments played with water, such as the hydraulophone. In Italy Studio Azzurro created “sensitive environments”, where the relationship between people counts as much as the one with the device, and in Genoa Antonio Camurri taught machines to read the expressiveness of gesture. Finally, Lev Manovich described “augmented space”: physical space layered with information, where what changes is not the screen but the place itself."
+        ]
+      },
+      "how": {
+        "kicker": "How I work",
+        "h2": "One contact, from the idea to the set-up",
+        "lede": "I design and build the whole technical side myself, with no hand-over between who designs and who builds. For the set-up I work with experienced professionals in exhibition design and installation.",
+        "items": [
+          [
+            "The idea",
+            "We start from what the audience should feel: the story, the path, the moment when the space responds."
+          ],
+          [
+            "Sensors",
+            "Touch, movement, presence, voice, light: I choose how the object notices who is there, and hide the sensors inside it."
+          ],
+          [
+            "Electronics and firmware",
+            "Microcontrollers and custom boards, programmed to react at once and keep running."
+          ],
+          [
+            "Software",
+            "The logic of the experience and the control of sound, light, images and movement."
+          ],
+          [
+            "Set-up",
+            "With set-up professionals: on-site tests, tuning with the real audience, and support for as long as the installation stays open."
+          ]
+        ]
+      },
+      "where": {
+        "kicker": "Work",
+        "h2": "Where they have been"
+      },
+      "reads": {
+        "kicker": "Reading",
+        "h2": "To go further",
+        "lede": "The books and studies this work starts from."
+      }
+    }
+  }
+}
