@@ -197,8 +197,7 @@ def project(p, lang, t):
     # Only the owner's products carry a label above the name. Every card keeps six children,
     # empty where missing, so the rows of its subgrid line up with the cards beside it.
     own = f'<p class="role">{t["own"]}</p>' if p.get("own") else "<span></span>"
-    wide = " card--wide" if p.get("wide") else ""
-    return f"""      <li class="card card--lead{wide}">
+    return f"""      <li class="card card--lead">
         {own}
         <h3>{escape(p["name"])}</h3>
         <p>{escape(p[lang])}</p>

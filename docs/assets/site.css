@@ -292,10 +292,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
   .tiles { grid-template-columns: repeat(4, 1fr); }
   .tiles--steps { grid-template-columns: repeat(5, 1fr); }
   .cards { grid-template-columns: repeat(4, 1fr); }
-  /* Five main products: three on the first row; on the second, the wide one takes twice the room. */
-  .cards--major { grid-template-columns: repeat(6, 1fr); }
-  .cards--major > * { grid-column: span 2; }
-  .cards--major > .card--wide, .cards--major > .card--wide:last-child:nth-child(odd) { grid-column: span 4; }
+  /* Four main products: two per row, wider than the minor ones. */
+  .cards--major { grid-template-columns: 1fr 1fr; }
   /* Five partners: three on the first row, two wider ones on the second. */
   .sites--five { grid-template-columns: repeat(6, 1fr); grid-auto-rows: auto; }
   .sites--five > * { grid-column: span 2; }

@@ -110,17 +110,6 @@
       "major": true
     },
     {
-      "name": "Answers. by ebp",
-      "role": "frontend_backend",
-      "client": "ebp Global",
-      "partner": "IKIGAI Soluzioni Informatiche",
-      "tech": ".NET · Angular · SaaS",
-      "href": "https://ebp-global.com/answers-by-ebp-insights-for-assortment-trend-supply/",
-      "it": "Piattaforma di analisi per il retail su più aziende: assortimento, previsione dei trend e approvvigionamento in un unico posto.",
-      "en": "A multi-tenant analytics platform for retail: assortment, trend forecasting and supply planning in one place.",
-      "major": true
-    },
-    {
       "name": "Perfecto",
       "role": "fullstack",
       "client": "IKIGAI Soluzioni Informatiche",
@@ -132,7 +121,6 @@
     },
     {
       "name": "Hagal+Clinic",
-      "wide": true,
       "role": "fullstack",
       "own": true,
       "tech": ".NET · Angular · Cloud",
@@ -181,8 +169,8 @@
     {
       "name": "IKIGAI Soluzioni Informatiche",
       "href": "https://www.ikigai-soluzioni.it/",
-      "it": "La società di Simone Festuccia, sviluppatore di prim'ordine e soprattutto project manager che mi tiene sempre sul pezzo. Software su misura, integrazione di sistemi e servizi gestiti. Insieme sviluppiamo Shelf Planner e abbiamo realizzato Dolce Torino e Answers; per IKIGAI contribuisco allo sviluppo di Perfecto.",
-      "en": "The company of Simone Festuccia, a first-rate developer and above all a project manager who keeps me on my toes. Custom software, system integration and managed services. Together we develop Shelf Planner, and we built Dolce Torino and Answers; for IKIGAI I help develop Perfecto."
+      "it": "La società di Simone Festuccia, sviluppatore di prim'ordine e soprattutto project manager che mi tiene sempre sul pezzo. Software su misura, integrazione di sistemi e servizi gestiti. Insieme sviluppiamo Shelf Planner e abbiamo realizzato Dolce Torino; per IKIGAI contribuisco allo sviluppo di Perfecto.",
+      "en": "The company of Simone Festuccia, a first-rate developer and above all a project manager who keeps me on my toes. Custom software, system integration and managed services. Together we develop Shelf Planner, and we built Dolce Torino; for IKIGAI I help develop Perfecto."
     },
     {
       "name": "TAKEMAKE Studios",
